@@ -1,0 +1,6 @@
+﻿{
+  "stryker-config": {
+    "solution": "../DriverLicenseApplication.sln",
+    "project": "DriverLicenseApplication.Adapters"
+  }
+}

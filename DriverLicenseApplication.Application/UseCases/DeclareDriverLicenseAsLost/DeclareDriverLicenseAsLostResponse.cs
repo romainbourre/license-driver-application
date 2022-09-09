@@ -1,0 +1,3 @@
+namespace DriverLicenseApplication.Application.UseCases.DeclareDriverLicenseAsLost;
+
+public readonly record struct DeclareDriverLicenseAsLostResponse;
